@@ -10,11 +10,17 @@
   </mj-head>
   <mj-body background-color="#ffffff">
     <!-- Image Header -->
-    <mj-section background-color="#ffffff" direction="rtl">
-      <mj-column width="33.33333333333333%" vertical-align="middle">
-        <mj-image src="https://raw.githubusercontent.com/mahdirahmangithub/cafebazaarcloud/master/navLogo.png" alt="cafebazaar | Cloud" padding-bottom="0px" padding-top="0px" padding="20px" width="64px"></mj-image>
+    <mj-section background-color="#ffffff" padding="0px">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/mahdirahmangithub/cafebazaarcloud/master/headerLogo.png" width="160px" padding="16px 0px 0px 0px" />
+        <mj-spacer height="10px" />
       </mj-column>
-      <mj-column width="66.66666666666666%" vertical-align="middle">
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0px">
+      <!-- <mj-column width="33.33333333333333%" vertical-align="middle">
+        <mj-image src="https://raw.githubusercontent.com/mahdirahmangithub/cafebazaarcloud/master/navLogo.png" alt="cafebazaar | Cloud" padding-bottom="0px" padding-top="0px" padding="20px" width="64px"></mj-image>
+      </mj-column> -->
+      <mj-column width="66.66666666666666%" vertical-align="middle" direction="rtl">
         <mj-navbar base-url=" " hamburger="hamburger" ico-color="rgba(93,99,125,0.87)" ico-font-family="Helvetica Neue" ico-font-size="18px" ico-close="&#215;" ico-open="&#9776;" ico-padding="0px">
           <mj-navbar-link href=" " font-family="Helvetica Neue" font-size="12px" text-decoration="none" text-transform="none" color="rgba(93,99,125,0.87)">خانه</mj-navbar-link>
           <mj-navbar-link href=" " font-family="Helvetica Neue" font-size="12px" text-decoration="none" text-transform="none" color="rgba(93,99,125,0.87)">درباره</mj-navbar-link>
@@ -22,18 +28,12 @@
         </mj-navbar>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding="0px">
-      <mj-column>
-        <mj-image src="https://raw.githubusercontent.com/mahdirahmangithub/cafebazaarcloud/master/headerLogo.png" width="160px" padding="0px 0px" />
-        <mj-spacer height="10px" />
-      </mj-column>
-    </mj-section>
     <mj-section background-color="#ffffff" padding-top="0px">
       <mj-column padding="0px">
         <mj-divider border-width="1px" border-style="solid" border-color="rgba(93,99,125,0.24)" width="60%" />
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding="0px" direction="rtl">
+    <mj-section background-color="#ffffff" padding="0px">
       <!--paragraph -->
       <mj-column>
         <mj-text font-style="normal" font-size="12px" font-family="Helvetica Neue" color="rgba(93,99,125,0.56)" align="right">
@@ -46,7 +46,7 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding-bottom="32px">
       <mj-column>
-        <mj-text   font-style="normal" font-size="14px" line-height="20px" font-family="Helvetica Neue" color="rgba(93,99,125,0.56)" align="right">
+        <mj-text font-style="normal" font-size="14px" line-height="20px" font-family="Helvetica Neue" color="rgba(93,99,125,0.56)" align="right">
           لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.
         </mj-text>
         <mj-text font-style="normal" font-size="20px" font-family="Helvetica Neue" color="rgba(93,99,125,0.87)" letter-spacing="16px" align="center">
