@@ -14,7 +14,29 @@
 
 # Introduction
 
-CAfe Bazaar Cloud mail template made by MJML, a markup language created by [Mailjet](https://www.mailjet.com/) and designed to reduce the pain of coding a responsive email. Its semantic syntax makes it easy and straightforward while its rich standard components library fastens your development time and lightens your email codebase. MJML’s open-source engine takes care of translating the MJML you wrote into responsive HTML.
+Cafe Bazaar Cloud mail template made by MJML, a markup language created by [Mailjet](https://www.mailjet.com/) and designed to reduce the pain of coding a responsive email. Its semantic syntax makes it easy and straightforward while its rich standard components library fastens your development time and lightens your email codebase. MJML’s open-source engine takes care of translating the MJML you wrote into responsive HTML.
+
+Main templates source files are:
+
+index.mjml
+index-fa.mjml
+
+that exported as ready to edit/send as HTML mail in:
+
+index.html
+index-fa.html
+
+Footer mode template files:
+
+footer.mjml
+footer-fa.mjml
+
+that exported as ready to edit/send as HTML mail in:
+
+footer.html
+footer-fa.html
+
+
 
 <p align="center">
   <a href=" " target="_blank">
