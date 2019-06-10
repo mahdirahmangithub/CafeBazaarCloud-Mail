@@ -4,7 +4,7 @@ If you're looking for MJML 3.3.X check [this branch](https://github.com/mjmlio/m
 
 <p align="center">
   <a href=" " target="_blank">
-    <img width="250"src="https://raw.githubusercontent.com/mahdirahmangithub/cafebazaarcloud/master/headerLogo.png">
+    <img width="250"src="https://raw.githubusercontent.com/mahdirahmangithub/cafebazaarcloud/master/headerLogo.svg">
 
   </a>
 </p>
