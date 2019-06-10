@@ -1,0 +1,53 @@
+{
+  "name": "mjml",
+  "description": "MJML: the only framework that makes responsive-email easy",
+  "version": "4.3.0",
+  "main": "lib/index.js",
+  "bin": {
+    "mjml": "bin/mjml"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjmlio/mjml.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mjmlio/mjml/issues"
+  },
+  "homepage": "https://mjml.io",
+  "scripts": {
+    "clean": "cross-env ../../node_modules/.bin/rimraf lib",
+    "build": "cross-env ../../node_modules/.bin/babel src --out-dir lib"
+  },
+  "dependencies": {
+    "cross-env": "^5.1.4",
+    "mjml-accordion": "4.3.0",
+    "mjml-body": "4.3.0",
+    "mjml-button": "4.3.0",
+    "mjml-carousel": "4.3.0",
+    "mjml-cli": "4.3.0",
+    "mjml-column": "4.3.0",
+    "mjml-core": "4.3.0",
+    "mjml-divider": "4.3.0",
+    "mjml-group": "4.3.0",
+    "mjml-head": "4.3.0",
+    "mjml-head-attributes": "4.3.0",
+    "mjml-head-breakpoint": "4.3.0",
+    "mjml-head-font": "4.3.0",
+    "mjml-head-preview": "4.3.0",
+    "mjml-head-style": "4.3.0",
+    "mjml-head-title": "4.3.0",
+    "mjml-hero": "4.3.0",
+    "mjml-image": "4.3.0",
+    "mjml-migrate": "4.3.0",
+    "mjml-navbar": "4.3.0",
+    "mjml-raw": "4.3.0",
+    "mjml-section": "4.3.0",
+    "mjml-social": "4.3.0",
+    "mjml-spacer": "4.3.0",
+    "mjml-table": "4.3.0",
+    "mjml-text": "4.3.0",
+    "mjml-validator": "4.3.0",
+    "mjml-wrapper": "4.3.0"
+  }
+}

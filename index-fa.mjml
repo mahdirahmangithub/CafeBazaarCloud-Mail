@@ -1,0 +1,112 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      @media all and (min-width: 480px) {
+        .align div {
+          text-align: right !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#ffffff">
+    <!-- Image Header -->
+    <mj-section background-color="#ffffff" direction="rtl">
+      <mj-column width="33.33333333333333%" vertical-align="middle">
+        <mj-image src="https://raw.githubusercontent.com/mahdirahmangithub/cafebazaarcloud/master/navLogo.png" alt="cafebazaar | Cloud" padding-bottom="0px" padding-top="0px" padding="20px" width="64px"></mj-image>
+      </mj-column>
+      <mj-column width="66.66666666666666%" vertical-align="middle">
+        <mj-navbar base-url=" " hamburger="hamburger" ico-color="rgba(93,99,125,0.87)" ico-font-family="Helvetica Neue" ico-font-size="18px" ico-close="&#215;" ico-open="&#9776;" ico-padding="0px">
+          <mj-navbar-link href=" " font-family="Helvetica Neue" font-size="12px" text-decoration="none" text-transform="none" color="rgba(93,99,125,0.87)">خانه</mj-navbar-link>
+          <mj-navbar-link href=" " font-family="Helvetica Neue" font-size="12px" text-decoration="none" text-transform="none" color="rgba(93,99,125,0.87)">درباره</mj-navbar-link>
+          <mj-navbar-link href=" " font-family="Helvetica Neue" font-size="12px" text-decoration="none" text-transform="none" color="rgba(93,99,125,0.87)">تماس</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0px">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/mahdirahmangithub/cafebazaarcloud/master/headerLogo.png" width="160px" padding="0px 0px" />
+        <mj-spacer height="10px" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-top="0px">
+      <mj-column padding="0px">
+        <mj-divider border-width="1px" border-style="solid" border-color="rgba(93,99,125,0.24)" width="60%" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0px" direction="rtl">
+      <!--paragraph -->
+      <mj-column>
+        <mj-text font-style="normal" font-size="12px" font-family="Helvetica Neue" color="rgba(93,99,125,0.56)" align="right">
+          ۱۳۹۸ | تیر | ۰۲
+        </mj-text>
+        <mj-text font-style="normal" font-size="20px" font-family="Helvetica Neue" color="rgba(93,99,125,0.87)" font-weight="bold" align="right">
+          عنوان ابر کافه بازار
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-bottom="32px">
+      <mj-column>
+        <mj-text   font-style="normal" font-size="14px" line-height="20px" font-family="Helvetica Neue" color="rgba(93,99,125,0.56)" align="right">
+          لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.
+        </mj-text>
+        <mj-text font-style="normal" font-size="20px" font-family="Helvetica Neue" color="rgba(93,99,125,0.87)" letter-spacing="16px" align="center">
+          ...
+        </mj-text>
+        <mj-text font-style="normal" font-size="14px" line-height="20px" font-family="Helvetica Neue" color="rgba(93,99,125,0.56)" align="right">
+          لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-url="https://raw.githubusercontent.com/mahdirahmangithub/cafebazaarcloud/master/back.png" vertical-align="middle" background-size="cover" background-repeat="no-repeat">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="center" font-family="Helvetica Neue" font-size="14px" color="#ffffff" padding-bottom="10px" padding-top="45px"><span style="font-size: 30px; line-height: 30px;">Future Business Technology</span><br /><br />Only on Cafe Bazaar<span style="color: #00e9ff"> CLOUD </span> services</mj-text>
+        <mj-button align="center" background-color="#32c5f4" color="#ffffff" border-radius="4px" href=" " font-family="Helvetica Neue" padding-bottom="45px" padding-top="10px">SUBSCRIBE</mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- Social icons -->
+    <mj-section background-color="#ffffff" padding-top="64px">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="rgba(93,99,125,0.24)" width="100%" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" full-width="full-width" padding-top="0px" padding-bottom="32px" direction="rtl">
+      <mj-column width="30%">
+        <mj-image src="https://raw.githubusercontent.com/mahdirahmangithub/cafebazaarcloud/master/footerLogo.png" alt="cafebazaar | Cloud" border="none" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="10px" width="80px"></mj-image>
+        <mj-spacer height="4px" />
+        <mj-text align="center" font-style="normal" font-weight="normal" font-size="10px" font-family="Helvetica Neue" line-height="16px" color="rgba(93,99,125,0.87)" letter-spacing="1px" padding="1px 16px">
+          <a href=" " style="text-decoration: none; color: inherit;"> cafebazaar.cloud</a>
+        </mj-text>
+        <mj-spacer height="4px" />
+      </mj-column>
+      <mj-column>
+        <mj-text css-class="align" align="center" font-style="normal" font-weight="bold" font-size="14px" font-family="Helvetica Neue" line-height="20px" color="rgba(93,99,125,0.87)" letter-spacing="1px" padding="0px 16px">
+          ملینا شیخ‌القرا
+        </mj-text>
+        <mj-text css-class="align" align="center" font-style="normal" font-weight="normal" font-size="12px" font-family="Helvetica Neue" line-height="16px" color="rgba(93,99,125,0.87)" letter-spacing="1px" padding="1px 16px">
+          <a href="mailto:m.sheikh@cafebazaar.ir" style="text-decoration: none; color: inherit;"> m.sheikh@cafebazaar.ir</a>
+        </mj-text>
+        <mj-spacer height="10px" />
+        <mj-text css-class="align" align="center" font-style="normal" font-weight="normal" font-size="12px" font-family="Helvetica Neue" line-height="16px" color="rgba(93,99,125,0.87)" letter-spacing="1px" padding="1px 16px">
+          زیرساخت
+        </mj-text>
+        <mj-text css-class="align" align="center" font-style="normal" font-weight="normal" font-size="12px" font-family="Helvetica Neue" line-height="16px" color="rgba(93,99,125,0.87)" letter-spacing="1px" padding="1px 16px">
+          مدیر توسعه کسب و کار
+        </mj-text>
+        <mj-spacer height="10px" />
+        <mj-text css-class="align" align="center" font-style="normal" font-weight="normal" font-size="12px" font-family="Helvetica Neue" line-height="16px" color="rgba(93,99,125,0.87)" letter-spacing="1px" padding="1px 16px">
+          <a href="tel:+989356338443" style="text-decoration: none; color: inherit;"> +۹۸ ۹۳۵ ۶۳۳ ۸۴۴۳</a>
+        </mj-text>
+        <mj-text css-class="align" align="center" font-style="normal" font-weight="normal" font-size="12px" font-family="Helvetica Neue" line-height="16px" color="rgba(93,99,125,0.87)" letter-spacing="1px" padding="1px 16px">
+          <a href="tel:+982174314055" style="text-decoration: none; color: inherit;">+۹۸ ۲۱ ۷۴ ۳۱ ۴۰۵۵</a>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0px">
+      <mj-column padding="0px">
+        <mj-divider border-width="1px" border-style="solid" border-color="rgba(93,99,125,0.24)" width="100%" padding="0px" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

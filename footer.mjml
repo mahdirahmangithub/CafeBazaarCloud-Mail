@@ -1,0 +1,62 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      @media all and (min-width: 480px) {
+        .align div {
+          text-align: left !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#ffffff">
+    <!-- Image Header -->
+ 
+
+ 
+    <!-- Social icons -->
+    <mj-section background-color="#ffffff" padding-top="64px">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="rgba(93,99,125,0.24)" width="100%" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" full-width="full-width" padding-top="0px" padding-bottom="32px">
+      <mj-column width="30%">
+        <mj-image src="https://raw.githubusercontent.com/mahdirahmangithub/cafebazaarcloud/master/footerLogo.png" alt="cafebazaar | Cloud" border="none" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="10px" width="80px"></mj-image>
+        <mj-spacer height="4px" />
+        <mj-text align="center" font-style="normal" font-weight="normal" font-size="10px" font-family="Helvetica Neue" line-height="16px" color="rgba(93,99,125,0.87)" letter-spacing="1px" padding="1px 16px">
+          <a href=" " style="text-decoration: none; color: inherit;"> cafebazaar.cloud</a>
+        </mj-text>
+        <mj-spacer height="4px" />
+      </mj-column>
+      <mj-column>
+        <mj-text css-class="align" align="center" font-style="normal" font-weight="bold" font-size="14px" font-family="Helvetica Neue" line-height="20px" color="rgba(93,99,125,0.87)" letter-spacing="1px" padding="0px 16px">
+          Melina Sheikholghora
+        </mj-text>
+        <mj-text css-class="align" align="center" font-style="normal" font-weight="normal" font-size="12px" font-family="Helvetica Neue" line-height="16px" color="rgba(93,99,125,0.87)" letter-spacing="1px" padding="1px 16px">
+          <a href="mailto:m.sheikh@cafebazaar.ir" style="text-decoration: none; color: inherit;"> m.sheikh@cafebazaar.ir</a>
+        </mj-text>
+        <mj-spacer height="10px" />
+        <mj-text css-class="align" align="center" font-style="normal" font-weight="normal" font-size="12px" font-family="Helvetica Neue" line-height="16px" color="rgba(93,99,125,0.87)" letter-spacing="1px" padding="1px 16px">
+          Infrastructure
+        </mj-text>
+        <mj-text css-class="align" align="center" font-style="normal" font-weight="normal" font-size="12px" font-family="Helvetica Neue" line-height="16px" color="rgba(93,99,125,0.87)" letter-spacing="1px" padding="1px 16px">
+          Business Development Manager
+        </mj-text>
+        <mj-spacer height="10px" />
+        <mj-text css-class="align" align="center" font-style="normal" font-weight="normal" font-size="12px" font-family="Helvetica Neue" line-height="16px" color="rgba(93,99,125,0.87)" letter-spacing="1px" padding="1px 16px">
+          <a href="tel:+989356338443" style="text-decoration: none; color: inherit;"> +98 935 633 8443</a>
+        </mj-text>
+        <mj-text css-class="align" align="center" font-style="normal" font-weight="normal" font-size="12px" font-family="Helvetica Neue" line-height="16px" color="rgba(93,99,125,0.87)" letter-spacing="1px" padding="1px 16px">
+          <a href="tel:+982174314055" style="text-decoration: none; color: inherit;">+98 21 74 31 4055</a>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0px">
+      <mj-column padding="0px">
+        <mj-divider border-width="1px" border-style="solid" border-color="rgba(93,99,125,0.24)" width="100%" padding="0px" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
