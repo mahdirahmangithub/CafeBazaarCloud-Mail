@@ -1,30 +1,15 @@
-# MJML 4
+# Cafe Bazaar Cloud | Mail Template
 
 If you're looking for MJML 3.3.X check [this branch](https://github.com/mjmlio/mjml/tree/3.3.x)
 
 <p align="center">
   <a href=" " target="_blank">
-    <img width="250"src="https://raw.githubusercontent.com/mahdirahmangithub/cafebazaarcloud/master/headerLogo.svg">
+    <img width="250"src="https://raw.githubusercontent.com/mahdirahmangithub/cafebazaarcloud/master/headerLogo.png">
 
   </a>
 </p>
 
-<p align="center">
-  <a href="https://travis-ci.org/mjmlio/mjml">
-    <img src="https://travis-ci.org/mjmlio/mjml.svg?branch=master" alt="travis">
-  </a>
-  <a href="https://www.codacy.com/app/gbadi/mjml">
-    <img src="https://api.codacy.com/project/badge/grade/575339cb861f4ff4b0dbb3f9e1759c35"/>
-  </a>
-</p>
-
-
-<p align="center">
-  | <b><a href="#introduction">Introduction</a></b>
-  | <b><a href="#installation">Installation</a></b>
-  | <b><a href="#usage">Usage</a></b>
-  | <b><a href="#contribute">Contribute</a></b> |
-</p>
+ 
 
 ---
 
