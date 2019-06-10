@@ -3,8 +3,8 @@
 If you're looking for MJML 3.3.X check [this branch](https://github.com/mjmlio/mjml/tree/3.3.x)
 
 <p align="center">
-  <a href="http://mjml.io" target="_blank">
-    <img width="250"src="https://mjml.io/assets/img/litmus/mjmlbymailjet.png">
+  <a href=" " target="_blank">
+    <img width="250"src="https://raw.githubusercontent.com/mahdirahmangithub/cafebazaarcloud/master/headerLogo.png">
 
   </a>
 </p>
