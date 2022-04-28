@@ -36,10 +36,10 @@ assertion-error@^1.0.1:
   resolved "https://registry.yarnpkg.com/assertion-error/-/assertion-error-1.1.0.tgz#e60b6b0e8f301bd97e5375215bda406c85118c0b"
 
 async@^2.1.2:
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/async/-/async-2.5.0.tgz#843190fd6b7357a0b9e1c956edddd5ec8462b54d"
+  version "2.6.4"
+  resolved "https://registry.yarnpkg.com/async/-/async-2.6.4.tgz#706b7ff6084664cd7eae713f6f965433b5504221"
   dependencies:
-    lodash "^4.14.0"
+    lodash "^4.17.14"
 
 asynckit@^0.4.0:
   version "0.4.0"
@@ -168,6 +168,10 @@ commander@2.9.0:
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.9.0.tgz#9c99094176e12240cb22d6c5146098400fe0f7d4"
   dependencies:
     graceful-readlink ">= 1.0.0"
+
+commander@^2.11.0:
+  version "2.20.3"
+  resolved "https://registry.yarnpkg.com/commander/-/commander-2.20.3.tgz#fd485e84c03eb4881c20722ba48035e8531aeb33"
 
 config-chain@~1.1.5:
   version "1.1.11"
@@ -450,6 +454,10 @@ js-beautify@^1.6.14:
     mkdirp "~0.5.0"
     nopt "~3.0.1"
 
+"js-tokens@^3.0.0 || ^4.0.0":
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-4.0.0.tgz#19203fb59991df98e3a287050d4647cdeaf32499"
+
 jsbn@~0.1.0:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/jsbn/-/jsbn-0.1.1.tgz#a5e654c2e5a2deb5f201d96cefbca80c0ef2f513"
@@ -549,13 +557,15 @@ lodash.unescape@^4.0.1:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/lodash.unescape/-/lodash.unescape-4.0.1.tgz#bf2249886ce514cda112fae9218cdc065211fc9c"
 
-lodash@^4.14.0:
-  version "4.17.4"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
+lodash@^4.17.14, lodash@^4.17.2:
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
 
-lodash@^4.17.2:
-  version "4.17.10"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.10.tgz#1b7793cf7259ea38fb3661d4d38b3260af8ae4e7"
+loose-envify@^1.0.0:
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/loose-envify/-/loose-envify-1.4.0.tgz#71ee51fa7be4caec1a63839f7e682d8132d30caf"
+  dependencies:
+    js-tokens "^3.0.0 || ^4.0.0"
 
 lower-case@^1.1.1:
   version "1.1.4"
@@ -595,6 +605,50 @@ mimer@^0.2.1:
 minimist@0.0.8:
   version "0.0.8"
   resolved "https://registry.yarnpkg.com/minimist/-/minimist-0.0.8.tgz#857fcabfc3397d2625b8228262e86aa7a011b05d"
+
+mjml-core@4.3.0:
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/mjml-core/-/mjml-core-4.3.0.tgz#1e2452ac5202a58ddf21e647607cf4c4ecff30e2"
+  dependencies:
+    babel-runtime "^6.26.0"
+    cross-env "^5.1.4"
+    html-minifier "^3.5.3"
+    js-beautify "^1.6.14"
+    juice "^4.1.0"
+    lodash "^4.17.2"
+    mjml-migrate "4.3.0"
+    mjml-parser-xml "4.3.0"
+    mjml-validator "4.3.0"
+
+mjml-migrate@4.3.0:
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/mjml-migrate/-/mjml-migrate-4.3.0.tgz#ce73bfdb3cfea8e36ee6563849218b820f7a5381"
+  dependencies:
+    babel-runtime "^6.26.0"
+    commander "^2.11.0"
+    cross-env "^5.1.4"
+    js-beautify "^1.6.14"
+    lodash "^4.17.2"
+    mjml-core "4.3.0"
+    mjml-parser-xml "4.3.0"
+
+mjml-parser-xml@4.3.0:
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/mjml-parser-xml/-/mjml-parser-xml-4.3.0.tgz#284603bfbbca45dc54e2d2779cceb645e9a3d4af"
+  dependencies:
+    babel-runtime "^6.26.0"
+    cross-env "^5.1.4"
+    htmlparser2 "^3.9.2"
+    lodash "^4.17.2"
+
+mjml-validator@4.3.0:
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/mjml-validator/-/mjml-validator-4.3.0.tgz#f0b294fd43e58940c8ba1f9badcea75a9047af0d"
+  dependencies:
+    babel-runtime "^6.26.0"
+    cross-env "^5.1.4"
+    lodash "^4.17.2"
+    warning "^3.0.0"
 
 mkdirp@~0.5.0:
   version "0.5.1"
@@ -827,6 +881,12 @@ verror@1.10.0:
     assert-plus "^1.0.0"
     core-util-is "1.0.2"
     extsprintf "^1.2.0"
+
+warning@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/warning/-/warning-3.0.0.tgz#32e5377cb572de4ab04753bdf8821c01ed605b7c"
+  dependencies:
+    loose-envify "^1.0.0"
 
 web-resource-inliner@^4.1.0:
   version "4.1.1"
